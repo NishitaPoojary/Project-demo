@@ -1,4 +1,4 @@
 # Project-demo
 First Git Repository.
 <br>
-Author - Nishita Poojaryy
+Author - Nishita Poojary
